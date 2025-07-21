@@ -2,7 +2,7 @@ module github.com/rancher/rke2
 
 go 1.24.4
 
-replace github.com/rancher/dynamiclistener => github.com/FXAZfung/dynamiclistener v0.0.1
+replace github.com/rancher/dynamiclistener => github.com/FXAZfung/dynamiclistener v0.1.0
 
 replace (
 	github.com/Microsoft/hcsshim => github.com/Microsoft/hcsshim v0.12.9

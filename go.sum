@@ -331,8 +331,8 @@ github.com/BurntSushi/toml v1.4.0 h1:kuoIxZQy2WRRk1pttg9asf+WVv6tWQuBNVmK8+nqPr0
 github.com/BurntSushi/toml v1.4.0/go.mod h1:ukJfTF/6rtPPRCnwkur4qwRxa8vTRFBF0uk2lLoLwho=
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/DataDog/datadog-go v3.2.0+incompatible/go.mod h1:LButxg5PwREeZtORoXG3tL4fMGNddJ+vMq1mwgfaqoQ=
-github.com/FXAZfung/dynamiclistener v0.0.1 h1:N/8X8ipA6denOxYjtePqc6gXsFbxl7Tg6hNaLsKtvsg=
-github.com/FXAZfung/dynamiclistener v0.0.1/go.mod h1:kq+3QHceIpW3f2xVpYgok7ILn1JcS8+O2utC42y8ZNY=
+github.com/FXAZfung/dynamiclistener v0.1.0 h1:60EWtwaSsgn07nfUM1QYryECdiQtF35+GtDg+IT3Z34=
+github.com/FXAZfung/dynamiclistener v0.1.0/go.mod h1:kq+3QHceIpW3f2xVpYgok7ILn1JcS8+O2utC42y8ZNY=
 github.com/GeertJohan/go.incremental v1.0.0/go.mod h1:6fAjUhbVuX1KcMD3c8TEgVUqmo4seqhv0i0kdATSkM0=
 github.com/GeertJohan/go.rice v1.0.2/go.mod h1:af5vUNlDNkCjOZeSGFgIJxDje9qdjsO6hshx0gTmZt4=
 github.com/GoogleCloudPlatform/cloudsql-proxy v0.0.0-20191009163259-e802c2cb94ae/go.mod h1:mjwGPas4yKduTyubHvD1Atl9r1rUq8DfVy+gkVvZ+oo=
